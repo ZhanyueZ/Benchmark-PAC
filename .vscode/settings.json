@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "stdint.h": "c",
+        "dpu.h": "c"
+    }
+}
