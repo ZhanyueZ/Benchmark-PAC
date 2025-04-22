@@ -2,6 +2,7 @@
     "files.associations": {
         "getopt.h": "c",
         "stdint.h": "c",
-        "dpu.h": "c"
+        "dpu.h": "c",
+        "perfcounter.h": "c"
     }
 }
